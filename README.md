@@ -1,1 +1,1 @@
-# VISION-Warmups-DataEfficient-Challenge
+# VISION Challenge Warmups: Data Efficient Localization Track
